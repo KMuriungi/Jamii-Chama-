@@ -1,0 +1,3 @@
+UHURU KENYATTA     300500     EC0916     Bronze    1000
+WILLY BILLY     300600     EC0917     Gold    3000
+
